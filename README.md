@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NodeJs and ExpressJs<br>👯 I’m looking to collaborate on open source<br>🤝 I’m a MERN stack developer <br>
+🔭 I’m currently working on NextJs and Typescript<br>👯 I’m looking to collaborate on open source<br>🤝 I’m a MERN stack developer <br>
 
 
 ## 🌐 Socials:
