@@ -50,7 +50,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavgarg25&theme=black-ice&hide_border=true&card_width=705">
+     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavgarg25&theme=dark" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
