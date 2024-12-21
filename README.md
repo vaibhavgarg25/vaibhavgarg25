@@ -47,10 +47,25 @@
 
 # 📊 Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=vaibhavgarg25&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgarg25&theme=great-gatsby&hide_border=false)<br/>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vaibhavgarg25&limit=5&theme=dark&combine_all_yearly_contributions=true)
----
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavgarg25&theme=black-ice&hide_border=true&card_width=705">
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhavgarg25&theme=transparent">
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaibhavgarg25&theme=transparent">
+    </td>
+  </tr>
+</table>
+<br>
+
+
 
 
