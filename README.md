@@ -57,10 +57,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhavgarg25&theme=transparent">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhavgarg25&theme=dark">
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaibhavgarg25&theme=transparent">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaibhavgarg25&theme=dark">
     </td>
   </tr>
 </table>
