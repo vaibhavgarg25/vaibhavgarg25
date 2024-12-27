@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">A passionate MERN stack developer</h3>
+<h3 align="center">A passionate Full stack developer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=vaibhavgarg25&icon=0&color=0)](https://visitcount.itsvg.in)
 
