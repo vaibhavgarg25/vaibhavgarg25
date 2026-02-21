@@ -76,7 +76,6 @@ https://github.com/vaibhavgarg25/DeployDude
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavgarg25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://streak-stats.demolab.com?user=vaibhavgarg25&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
